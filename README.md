@@ -185,7 +185,7 @@ This project is licensed under the **MIT License** - free for educational and pe
 ---
 
 ## 👨‍💻 About the Developer  
-Developed with ❤️ by [Your Name].  
+Developed with ❤️ by gourav.  
 - **Email**: gouravthakur200319@gmail.com  
 - **GitHub**: [github.com/gourav4222f](https://github.com/gourav4222f)  
 
