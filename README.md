@@ -91,8 +91,7 @@ bookstore/
 1. **Clone the Repository**  
    Clone the project to your local machine:  
    ```bash
-   git clone https://github.com/gourav4222f/bookstore.git
-   cd bookstore
+   git clone https://github.com/Tanuchauraisa/books-store
    ```
 
 2. **Database Setup**  
@@ -185,8 +184,8 @@ This project is licensed under the **MIT License** - free for educational and pe
 ---
 
 ## 👨‍💻 About the Developer  
-Developed with ❤️ by gourav.  
-- **Email**: gouravthakur200319@gmail.com  
-- **GitHub**: [github.com/gourav4222f](https://github.com/gourav4222f)  
+Developed with ❤️ by Tanu.  
+- **Email**: tanuchorshiya96@gmail.com  
+- **GitHub**: [https://github.com/Tanuchauraisa](https://github.com/Tanuchauraisa)  
 
-**Last Updated**: August 2023
+**Last Updated**: March 2025
